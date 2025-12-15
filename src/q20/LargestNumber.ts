@@ -14,4 +14,4 @@ for (let i = 1; i < inputs.length; i++) {
     }
 }
 
-console.log(largestNumber);
+console.log(largestNumber.toString());
